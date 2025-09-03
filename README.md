@@ -25,3 +25,5 @@ Shortcut: Super + F7 (or any key you want)
 🛠 Requirements
 pactl (PulseAudio or PipeWire backend)
 GNOME desktop environment
+
+note: when you have a new audio device, add the sink name inside **toggle-audio.sh** otherwise it will not cycle
